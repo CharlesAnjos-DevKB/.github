@@ -1,1 +1,1 @@
-# .github
+Refer to [this organization's root](https://github.com/CharlesAnjos-DevKB) for more information

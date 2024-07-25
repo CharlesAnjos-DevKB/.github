@@ -7,3 +7,6 @@ mainly as a way to help me organize things and better remember stuff, but also m
 as a form of documentation.
 
 This is hopefully the first of many many commits to this and many many other repos under this organization.
+
+### Vue.js
+The KB for Vue.js is available at [that project's wiki](https://github.com/CharlesAnjos-DevKB/VueKB/wiki).
